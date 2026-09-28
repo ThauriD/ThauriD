@@ -1,4 +1,25 @@
-## Hi there 👋
+## Hi there, I'm Thauri 👋
+
+I'm a Data Scientist currently based in Sweden.
+
+### 🔭 What I'm currently working on
+- Full-time student, MSc. Statistics and Data Science @ Uppsala University
+- Part-time Data Scientist @ Hutch Games (Modern Times Group)
+
+### 🛠️ Data Science Toolkit
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, SQL, R |
+| **ML & Deep Learning** | Scikit-learn, XGBoost, Prophet, LightGBM, Reinforcement Learning |
+| **Data Viz & BI** | Tableau, Plotly, Streamlit, (& more recently, Claude!) |
+| **Data Engineering & Cloud** | Databricks, BigQuery, Github, MLFlow |
+
+---
+
+### 📬 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/thauri-dattadeen/)
+
 
 <!--
 **ThauriD/ThauriD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
