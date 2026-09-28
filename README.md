@@ -2,6 +2,8 @@
 
 I'm a Data Scientist currently based in Sweden.
 
+This site is a work in progress!
+
 ### 🔭 What I'm currently working on
 - Full-time student, MSc. Statistics and Data Science @ Uppsala University
 - Part-time Data Scientist @ Hutch Games (Modern Times Group)
